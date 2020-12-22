@@ -4,6 +4,5 @@ zidingyi:
     url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
     username: root
     password: root
-zidingyi:
   name: inner-peace
   age: 23
